@@ -1,3 +1,6 @@
+# Repository Change
+You can find the latest version of NRobot [here](https://gitlab.com/sotirisp/NRobot).
+
 # NRobot
 A C++ library of algorithms for area coverage by a network of mobile robotic
 agents. It includes algorithms for both ground and aerial mobile agents.
